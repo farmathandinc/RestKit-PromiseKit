@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Chris McKnight. All rights reserved.
 //
 
-#import <RestKit/Network/RKObjectManager.h>
+@import RestKit;
 
 @class PMKPromise;
 
